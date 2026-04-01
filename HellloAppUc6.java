@@ -1,4 +1,4 @@
-public class HellloAppUc5 {
+public class HellloAppUc6 {
     public static void main(String[] args) {
 
             StringBuilder nameBuilder = new StringBuilder();
