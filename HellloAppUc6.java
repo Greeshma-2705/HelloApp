@@ -1,4 +1,4 @@
-.
+<<<<<<<< HEAD:HelloAppUc6.java
 public class HelloAppUc6 {
 ========
 public class HellloAppUc6 {
