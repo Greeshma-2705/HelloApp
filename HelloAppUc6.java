@@ -1,8 +1,5 @@
-.
 public class HelloAppUc6 {
-========
-public class HellloAppUc6 {
->>>>>>>> origin/main:HellloAppUc6.java
+
     public static void main(String[] args) {
 
             StringBuilder nameBuilder = new StringBuilder();
